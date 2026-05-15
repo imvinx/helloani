@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1000&color=C770FF&center=true&vCenter=true&random=false&width=1000&height=90&lines=HelloAni+🎬;Modern+Anime+Streaming+Platform;Premium+Open+Source+Anime+SaaS;Built+with+PHP+%2B+MySQL+%2B+JavaScript;Advanced+Admin+Dashboard;Watch+Anime+Anywhere+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=C770FF&center=true&vCenter=true&width=900&lines=HelloAni+🎬;Premium+Anime+Streaming+Platform;Open+Source+Anime+SaaS;Built+With+PHP+%2B+MySQL+%2B+JavaScript" />
 
 <br>
 
