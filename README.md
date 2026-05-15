@@ -1,363 +1,314 @@
-# 🎬 HelloAni
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=C770FF&center=true&vCenter=true&width=900&lines=HelloAni+Anime+Streaming+Platform;Modern+Anime+SaaS+Platform;Open+Source+Anime+Website;PHP+%2B+MySQL+%2B+JavaScript;Premium+Anime+Streaming+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1000&color=C770FF&center=true&vCenter=true&random=false&width=1000&height=90&lines=HelloAni+🎬;Modern+Anime+Streaming+Platform;Premium+Open+Source+Anime+SaaS;Built+with+PHP+%2B+MySQL+%2B+JavaScript;Advanced+Admin+Dashboard;Watch+Anime+Anywhere+⚡" />
 
 <br>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/HelloAni?style=for-the-badge&color=8b5cf6">
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/HelloAni?style=for-the-badge&color=ec4899">
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/HelloAni?style=for-the-badge&color=06b6d4">
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/HelloAni?style=for-the-badge&color=f59e0b">
-<img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/HelloAni?style=for-the-badge&color=22c55e">
+<img src="https://img.shields.io/github/stars/imvinx/HelloAni?style=for-the-badge&logo=github&color=8b5cf6">
+<img src="https://img.shields.io/github/forks/imvinx/HelloAni?style=for-the-badge&logo=github&color=ec4899">
+<img src="https://img.shields.io/github/issues/imvinx/HelloAni?style=for-the-badge&logo=github&color=f59e0b">
+<img src="https://img.shields.io/github/license/imvinx/HelloAni?style=for-the-badge&color=06b6d4">
+<img src="https://img.shields.io/github/repo-size/imvinx/HelloAni?style=for-the-badge&color=22c55e">
 
 <br><br>
 
-<img src="./preview/banner.png" width="100%" />
+<img src="https://files.catbox.moe/40oqkb.png" width="100%" />
 
-<h3>🌌 Premium Open Source Anime Streaming Platform 🌌</h3>
+<br>
+
+<h1>🌌 HelloAni</h1>
+
+<h3>Premium Anime Streaming SaaS Platform</h3>
 
 <p>
-HelloAni is a futuristic anime streaming SaaS platform inspired by modern OTT experiences like HiAnime, Netflix, Crunchyroll and 9anime.
-Built using PHP, MySQL, HTML5, Tailwind CSS and JavaScript with a fully advanced admin panel and production-ready architecture.
+HelloAni is a modern open-source anime streaming platform inspired by Netflix, HiAnime, Crunchyroll and modern SaaS applications.
+Built using PHP, MySQL, HTML5, Tailwind CSS and JavaScript with a futuristic UI and enterprise-grade admin panel.
 </p>
+
+<br>
+
+<a href="../../releases">
+<img src="https://img.shields.io/badge/📦_Download_Source_Code-Releases-purple?style=for-the-badge">
+</a>
+
+<a href="../../stargazers">
+<img src="https://img.shields.io/badge/⭐_Star_This_Project-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="../../fork">
+<img src="https://img.shields.io/badge/🍴_Fork_Repository-Open_Source-blue?style=for-the-badge">
+</a>
 
 </div>
 
 ---
 
-# 📖 About HelloAni
+# ⚡ About HelloAni
 
-HelloAni is a modern, responsive and powerful anime streaming platform designed for developers, anime communities and startup creators who want to launch their own anime streaming website with a premium UI and enterprise-level backend system.
+HelloAni is a next-generation anime streaming platform built for developers, startups and anime communities who want to launch a premium OTT-style anime website.
 
-This project is built completely open source and designed with scalability, performance and modern user experience in mind.
+The project combines:
+- Netflix-style cinematic UI
+- HiAnime inspired streaming layout
+- SaaS-level admin dashboard
+- Modern responsive design
+- Advanced anime management system
+- AI-powered recommendations
+- Secure backend architecture
 
-The platform provides:
-- Anime streaming system
-- User authentication
-- Watch history
-- AI recommendations
-- Advanced admin dashboard
-- Analytics
-- SEO optimization
-- Mobile responsive layout
-- Premium SaaS style UI
-- Multi-server streaming
-- Modern OTT experience
-
-The design philosophy behind HelloAni is to combine:
-- Netflix style cinematic UI
-- HiAnime speed and anime layout
-- SaaS dashboard architecture
-- Modern dark futuristic visuals
-- Open source flexibility
+This platform is completely open source and customizable.
 
 ---
 
-# ✨ Main Features
+# 🎬 Main Features
+
+<div align="center">
+
+| Feature | Included |
+|----------|----------|
+| Anime Streaming | ✅ |
+| Multi Server Player | ✅ |
+| Admin Dashboard | ✅ |
+| Watch History | ✅ |
+| Continue Watching | ✅ |
+| AI Recommendations | ✅ |
+| User Authentication | ✅ |
+| SEO Optimization | ✅ |
+| Mobile Responsive | ✅ |
+| Premium UI/UX | ✅ |
+| Notifications | ✅ |
+| Watchlist System | ✅ |
+| Anime Comments | ✅ |
+| Advanced Search | ✅ |
+| PWA Support | ✅ |
+
+</div>
+
+---
+
+# 🌟 Preview
+
+<div align="center">
+
+## 🖥️ Website Preview
+
+<img src="https://files.catbox.moe/40oqkb.png" width="100%" />
+
+</div>
+
+---
 
 # 🎥 Streaming Features
 
-- HD Anime Streaming
-- Full HD 1080p Support
-- HLS Streaming
-- MP4 Video Support
-- Multi Video Servers
-- Auto Server Fallback
-- Auto Next Episode
-- Skip Intro Button
-- Continue Watching
-- Watch Progress Saving
-- Resume Playback
-- Playback Speed Control
-- Subtitle Upload System
-- Multi Language Subtitles
-- Dub/Sub Switching
-- Theater Mode
-- Picture in Picture
-- Fullscreen Mode
-- Keyboard Shortcuts
-- Episode Navigation
-- Related Anime Suggestions
-- Streaming Analytics
-- Anti Screenshot Overlay
-- Chromecast Support
-- Video Buffer Optimization
-- Anime Trailer Modal
+```diff
++ HD & Full HD Streaming
++ HLS Video Support
++ MP4 Streaming
++ Multiple Video Servers
++ Auto Server Fallback
++ Dub/Sub Switching
++ Subtitle Support
++ Auto Next Episode
++ Skip Intro Feature
++ Theater Mode
++ Picture in Picture
++ Resume Playback
++ Continue Watching
++ Episode Navigation
++ Keyboard Controls
++ Chromecast Support
++ Streaming Analytics
+```
 
 ---
 
 # 🔍 Search & Discovery
 
-- Advanced AJAX Search
-- Instant Anime Search
-- Smart Suggestions
-- Voice Search UI
-- Genre Filtering
-- Anime Categories
-- Trending Anime
-- Top Rated Anime
-- Seasonal Anime
-- New Episodes
-- Recently Added
-- Most Watched
-- Anime Recommendations
-- AI Powered Discovery
-- Personalized Suggestions
-- Search History
+```yaml
+Features:
+  - Advanced AJAX Search
+  - Voice Search UI
+  - Trending Anime
+  - Top Rated Anime
+  - New Episodes
+  - Seasonal Anime
+  - Personalized Recommendations
+  - Smart Anime Suggestions
+  - Genre Filtering
+  - Anime Tags
+  - Search History
+```
 
 ---
 
 # 👤 User Features
 
-- User Registration
-- Login System
-- Secure Authentication
-- Password Reset
-- OTP Email Verification
-- Google Login
-- Discord Login
-- User Profiles
-- Avatar Upload
-- User Dashboard
-- Watch History
-- Watchlist
-- Favorites
-- Collections
-- Anime Ratings
-- Anime Reviews
-- Notification Center
-- Continue Watching
-- Premium Memberships
-- VIP Badges
-- Dark Mode
-- Account Settings
-- Security Settings
+```bash
+✔ Login & Registration
+✔ OTP Email Verification
+✔ Google Login
+✔ Discord Login
+✔ User Profiles
+✔ Avatar Upload
+✔ Watch History
+✔ Favorites
+✔ Watchlist
+✔ Anime Collections
+✔ Notifications
+✔ Continue Watching
+✔ VIP Membership
+✔ User Settings
+✔ Security Settings
+```
 
 ---
 
-# 💎 Premium Features
+# 👑 Advanced Admin Dashboard
 
-- VIP Subscription System
-- Ad-Free Streaming
-- Premium Badge
-- Exclusive Features
-- Download Anime Option
-- Early Access Episodes
-- Premium Themes
-- Advanced Streaming Servers
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Enterprise+Grade+Admin+Panel;Complete+Website+Control;Modern+Dashboard+Analytics" />
+
+</div>
 
 ---
 
-# 🧠 AI Features
+# 🛠️ Admin Features
 
-- AI Anime Recommendations
-- Smart Continue Watching
-- Personalized Homepage
-- Smart Search Suggestions
-- AI Anime Discovery
-- Intelligent Trending Detection
-- User Behavior Analysis
-- Dynamic Recommendations
-
----
-
-# 🌐 Community Features
-
-- Anime Comments
-- Anime Reviews
-- Like & Dislike System
-- Community Discussions
-- User Reactions
-- Community Posts
-- Anime Ratings
-- Moderation System
-- Anti Spam Protection
-
----
-
-# 🛠️ Advanced Admin Panel
-
-HelloAni includes a fully advanced enterprise-grade admin dashboard.
-
-The admin system gives complete control over the website.
-
----
-
-# 👑 Admin Features
-
-## Dashboard Analytics
-
+## 📊 Dashboard Analytics
 - Total Users
 - Total Anime
 - Total Episodes
 - Revenue Analytics
-- Real Time Visitors
-- Server Usage
-- Site Health
+- Visitor Tracking
 - Anime Performance
+- User Activity
 - Watch Statistics
-- User Growth Charts
 
 ---
 
-## Anime Management
-
+## 🎬 Anime Management
 - Add Anime
 - Edit Anime
 - Delete Anime
-- Bulk Anime Upload
-- Anime Categories
-- Genres Management
-- Studio Management
+- Bulk Upload Anime
 - Upload Posters
 - Upload Banners
-- Trailer Management
-- Metadata Management
-- API Auto Fetch
-- SEO Anime URLs
+- Genres Management
 - Anime Tags
+- Trailer Management
+- Anime Scheduling
 
 ---
 
-## Episode Management
-
+## 📺 Episode Management
 - Add Episodes
-- Edit Episodes
-- Delete Episodes
-- Bulk Episode Import
+- Bulk Import Episodes
 - Episode Scheduling
 - Subtitle Upload
-- Episode Sorting
 - Multi Server Setup
-- Download Links
 - Thumbnail Upload
 
 ---
 
-## User Management
-
-- View Users
-- Delete Users
+## 👤 User Management
 - Ban Users
-- Promote Users
+- Delete Users
 - User Roles
 - User Permissions
-- User Reports
-- Watch History Tracking
 - Membership Management
+- Reports & Logs
 
 ---
 
-## Comment Moderation
-
-- Delete Comments
-- Moderate Reviews
-- Spam Protection
-- Content Filtering
-- User Report System
-
----
-
-## Ads Management
-
+## 💰 Monetization
 - Banner Ads
 - Popup Ads
 - Video Ads
-- Custom Ad Placement
-- Google Adsense Integration
-- Monetization Controls
+- Adsense Integration
+- Custom Ad Placements
 
 ---
 
-## Website Customization
+# 🎨 Modern UI/UX
 
-- Change Logo
-- Change Theme
-- Homepage Customization
-- Hero Banner Editing
-- Footer Customization
-- Social Media Links
-- Maintenance Mode
-- SEO Settings
-- Meta Tags
-- Sitemap Generator
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Glassmorphism+Design;Dark+Neon+Theme;Modern+OTT+Experience;Smooth+Animations" />
+
+</div>
 
 ---
 
-## Security Features
+# ✨ UI Includes
 
-- CSRF Protection
-- SQL Injection Protection
-- XSS Protection
-- Secure Sessions
-- DDOS Protection Logic
-- Login Attempt Limiter
-- IP Blocking
-- Cloudflare Compatibility
-- Activity Logs
-- Two Factor Authentication
-
----
-
-# 🎨 UI & UX Design
-
-HelloAni is designed with a premium SaaS level interface.
-
-Design Includes:
-- Glassmorphism
-- Neon Effects
-- Dark Theme
-- Gradient Colors
-- Smooth Animations
-- Animated Hover Effects
-- Skeleton Loading
-- Floating Navbar
-- Animated Cards
-- Modern Layout
-- Responsive Components
-- OTT Style Interface
+```diff
++ Glassmorphism Effects
++ Neon Glow UI
++ Animated Hover Effects
++ Smooth Transitions
++ Skeleton Loading
++ Responsive Layout
++ Dynamic Hero Slider
++ Floating Navbar
++ Animated Anime Cards
++ Modern OTT Design
+```
 
 ---
 
 # 📱 Mobile Optimization
 
-- Fully Responsive
-- Mobile First Design
-- PWA Support
-- Install As App
-- Mobile Streaming Controls
-- Touch Gestures
-- Responsive Dashboard
-- Fast Mobile Performance
-
----
-
-# ⚡ Performance Optimization
-
-- Lazy Loading
-- AJAX Navigation
-- CDN Ready
-- Optimized Assets
-- Fast Image Loading
-- Lightweight Components
-- Optimized Queries
-- Browser Caching
-- Minified Scripts
+```yaml
+Supported:
+  - Mobile Responsive Design
+  - PWA Support
+  - Install As App
+  - Touch Gestures
+  - Mobile Streaming Controls
+  - Responsive Dashboard
+  - Optimized Performance
+```
 
 ---
 
 # 🌍 SEO Optimization
 
-- Dynamic Meta Tags
-- OpenGraph Tags
-- Robots.txt
-- Sitemap Generator
-- SEO Friendly URLs
-- Structured Data
-- Schema Markup
-- Fast Indexing
+```diff
++ Dynamic Meta Tags
++ OpenGraph Support
++ Sitemap Generator
++ Robots.txt
++ SEO Friendly URLs
++ Schema Markup
++ Fast Loading
++ Optimized Indexing
+```
+
+---
+
+# ⚡ Performance Features
+
+- AJAX Navigation
+- Lazy Loading
+- Optimized Images
+- Browser Caching
+- CDN Ready
+- Lightweight Architecture
+- Fast Database Queries
+
+---
+
+# 🧠 AI Features
+
+```bash
+✔ AI Recommendations
+✔ Smart Continue Watching
+✔ Personalized Homepage
+✔ Anime Discovery AI
+✔ Smart Search Suggestions
+✔ User Behavior Analysis
+```
 
 ---
 
@@ -370,17 +321,16 @@ helloani/
 ├── api/
 ├── assets/
 ├── auth/
+├── cache/
+├── config/
 ├── database/
 ├── includes/
-├── uploads/
-├── templates/
-├── player/
-├── mail/
-├── config/
-├── cache/
 ├── logs/
+├── player/
 ├── storage/
+├── templates/
 ├── themes/
+├── uploads/
 │
 ├── index.php
 ├── config.php
@@ -393,30 +343,16 @@ helloani/
 
 # 🧩 Tech Stack
 
-## Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript
-- AJAX
-- Swiper.js
-- AOS Animation
-- Font Awesome
+<div align="center">
 
-## Backend
-- Core PHP
-- REST APIs
-- MVC Structure
-- Secure Sessions
+| Frontend | Backend | Database | Libraries |
+|----------|----------|-----------|-----------|
+| HTML5 | PHP | MySQL | Swiper.js |
+| Tailwind CSS | REST APIs | MariaDB | AOS |
+| JavaScript | MVC Structure | | FontAwesome |
+| AJAX | Session Auth | | Chart.js |
 
-## Database
-- MySQL
-- MariaDB
-
-## Server Support
-- Apache
-- Nginx
-- LiteSpeed
+</div>
 
 ---
 
@@ -425,12 +361,12 @@ helloani/
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/imvinx/helloani.git
+git clone https://github.com/YOUR_USERNAME/HelloAni.git
 ```
 
 ---
 
-# 2️⃣ Move To Project
+# 2️⃣ Enter Project
 
 ```bash
 cd HelloAni
@@ -438,9 +374,7 @@ cd HelloAni
 
 ---
 
-# 3️⃣ Setup Database
-
-Import:
+# 3️⃣ Import Database
 
 ```bash
 database/helloani.sql
@@ -452,7 +386,7 @@ database/helloani.sql
 
 Edit:
 
-```bash
+```php
 config.php
 ```
 
@@ -467,123 +401,61 @@ $db_pass = "";
 
 ---
 
-# 5️⃣ Run Project
+# 5️⃣ Start Website
 
-Use:
+Supported:
 - XAMPP
 - Laragon
-- Hostinger
 - cPanel
+- Hostinger
 - VPS
-- Apache Server
+- Apache
+- Nginx
 
 ---
 
-# 🔐 Default Admin Credentials
+# 📦 Download Source Code
 
-```bash
+<div align="center">
+
+# ⬇️ Download Available In Releases Page
+
+<a href="../../releases">
+<img src="https://img.shields.io/badge/📦_DOWNLOAD_NOW-Releases_Page-purple?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+# 🔐 Default Admin Login
+
+```yaml
 Email: admin@helloani.dev
 Password: admin123
 ```
 
-⚠️ Change credentials immediately after installation.
-
----
-
-# 🔥 API Integrations
-
-HelloAni supports:
-- Anime Metadata APIs
-- TMDB APIs
-- MAL APIs
-- Anime Schedules
-- Streaming APIs
-- Subtitle APIs
-
----
-
-# 📊 Analytics System
-
-- Real Time Analytics
-- Anime Views
-- User Tracking
-- Watch Time Reports
-- Revenue Statistics
-- Server Analytics
-- Visitor Monitoring
-
----
-
-# 📥 Download Features
-
-- Anime Downloads
-- Download Servers
-- Download Quality Selection
-- Mobile Downloads
-
----
-
-# 🌌 Homepage Sections
-
-- Hero Slider
-- Trending Anime
-- Top Airing
-- New Episodes
-- Recently Added
-- Popular This Week
-- Recommended Anime
-- Genres
-- Schedule Calendar
-
----
-
-# 📺 Streaming Player Features
-
-- Multi Quality
-- Multi Server
-- Subtitles
-- Audio Switching
-- Theater Mode
-- Playback Resume
-- Keyboard Controls
-- Auto Skip Intro
-
----
-
-# 🏆 Why HelloAni?
-
-✅ Open Source  
-✅ Modern UI  
-✅ Production Ready  
-✅ Mobile Optimized  
-✅ SEO Friendly  
-✅ Fast Performance  
-✅ Powerful Admin Panel  
-✅ Secure Architecture  
-✅ AI Powered Features  
-✅ SaaS Style Design  
-✅ Enterprise Grade System  
+⚠️ Change credentials after installation.
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome.
+Contributions are welcome.
 
-You can:
-- Fork Repository
-- Submit Pull Requests
-- Report Bugs
-- Suggest Features
-- Improve UI
-- Optimize Backend
-- Add Integrations
+```bash
+Fork 🍴
+Clone 📥
+Edit ✍️
+Commit 🚀
+Pull Request 🔥
+```
 
 ---
 
 # 📜 License
 
-This project is licensed under the 
+This project is licensed under the MIT License.
 
 You are free to:
 - Use
@@ -596,97 +468,85 @@ You are free to:
 
 # 💜 Credits
 
-## Main Project
-Developed and designed by VINX.
+## 👨‍💻 Main Developer
+VINX
 
-## UI Inspiration
-Inspired by:
-- HiAnime
+---
+
+## 🎨 UI Inspiration
 - Netflix
+- HiAnime
 - Crunchyroll
 - Modern SaaS Platforms
 
-## Technologies Used
+---
+
+## ⚙️ Technologies Used
 - PHP
 - MySQL
 - Tailwind CSS
 - JavaScript
 - AJAX
 - Swiper.js
+- AOS Animation
 
 ---
 
-# 🌟 Support The Project
+# 🌌 Future Plans
 
-If you like this project:
-
-⭐ Star the repository  
-🍴 Fork the project  
-📢 Share with others  
-💜 Support development  
-
----
-
-# 📞 Community & Support
-
-- GitHub Issues
-- Discord Community
-- Feature Requests
-- Documentation
-- Discussions
-
----
-
-# 🧠 Future Plans
-
-Upcoming Features:
-- Mobile App
-- Electron Desktop App
-- AI Voice Search
-- Watch Party System
-- Real Time Chat
-- Anime Recommendation AI
-- NFT Profile Badges
-- Advanced Analytics
-- Plugin Marketplace
-- Multi Theme Engine
-
----
-
-# 📸 Preview Images
-
-## Homepage
-```md
-./preview/homepage.png
-```
-
-## Player
-```md
-./preview/player.png
-```
-
-## Admin Panel
-```md
-./preview/admin-dashboard.png
-```
-
-## Mobile UI
-```md
-./preview/mobile.png
+```diff
++ Mobile App
++ Desktop App
++ AI Voice Search
++ Watch Party System
++ Real Time Chat
++ Plugin Marketplace
++ Multi Theme Engine
++ Cloud Streaming
 ```
 
 ---
 
 # ❤️ Open Source Mission
 
-HelloAni is built to help developers and anime communities create modern anime streaming platforms easily.
+HelloAni is built for:
+- Developers
+- Anime Communities
+- Learners
+- Open Source Enthusiasts
+- Startup Creators
 
 This project focuses on:
-- Learning
-- Innovation
-- Open Source
-- Community Development
-- Modern Web Technologies
+- Modern UI/UX
+- Performance
+- Scalability
+- Open Source Development
+- Community Growth
+
+---
+
+# 🌟 Support The Project
+
+<div align="center">
+
+## If you like this project
+
+⭐ Star the repository  
+🍴 Fork the project  
+📢 Share with others  
+💜 Support development  
+
+<br>
+
+<a href="../../stargazers">
+<img src="https://img.shields.io/badge/⭐_Star_Project-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="../../fork">
+<img src="https://img.shields.io/badge/🍴_Fork_Repository-Open_Source-blue?style=for-the-badge">
+</a>
+
+</div>
 
 ---
 
@@ -696,6 +556,6 @@ This project focuses on:
 
 ### Watch Anime Anywhere. Anytime.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=140&section=footer"/>
 
 </div>
