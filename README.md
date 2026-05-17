@@ -356,24 +356,6 @@ helloani/
 
 ---
 
-# 🚀 Installation Guide
-
-# 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/HelloAni.git
-```
-
----
-
-# 2️⃣ Enter Project
-
-```bash
-cd HelloAni
-```
-
----
-
 # 3️⃣ Import Database
 
 ```bash
